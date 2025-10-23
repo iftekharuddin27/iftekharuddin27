@@ -7,11 +7,11 @@
 ---
 
 ### 💻 About Me
-- 🔭 I’m currently exploring **Full-Stack Web Development**
-- 🌱 I’m learning **Next.js**, **React**, and **Backend integration**
-- 💬 Ask me about **Web Development**, **JavaScript**, or **Python**
-- 🎯 Goal: To become a skilled **Software Engineer** who builds impactful digital solutions
-- ⚡ Fun fact: I took Data Science as Major 
+-  I’m currently exploring **Full-Stack Web Development**
+-  I’m learning **Next.js**, **React**, and **Backend integration**
+-  Ask me about **Web Development**, **JavaScript**, or **Python**
+-  Goal: To become a skilled **Software Engineer** who builds impactful digital solutions
+-  Fun fact: I took Data Science as Major 
 
 ---
 
